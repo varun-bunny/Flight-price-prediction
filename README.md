@@ -7,7 +7,7 @@
 * In this project, we are going to build a Python Flight Fare Prediction App, that returns the fare prediction for a given set of travel details, like:  departure date, arrival date, departure city, arrival city, stoppages, and the airline carrier.
 
 ## App Functionality
-![](https://github.com/varun-bunny/Flight-price-prediction/blob/main/flight-price-prediction-main/templates/App_Functionality.gif?raw=true)
+![](templates/App_Functionality.gif)
 
 
 ## Steps to run Flight Fare App - on Windows
